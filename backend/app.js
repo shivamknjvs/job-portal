@@ -17,7 +17,7 @@ app.use(express.json());
 app.use(express.urlencoded({extended:true}));
 app.use(cookieParser());
 const corsOptions = {
-    origin:'https://job-portal-one-ebon.vercel.app/',
+    origin:'https://job-portal-one-ebon.vercel.app',
     credentials:true
 }
 
