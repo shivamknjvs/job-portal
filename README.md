@@ -4,7 +4,7 @@ A full-stack JobPortal web application built using the **MERN stack** (MongoDB, 
 
 ## Live Demo
 
-[Click here to view the live application](https://job-portal-1t9b.onrender.com)
+[Click here to view the live application](https://job-portal-one-ebon.vercel.app/)
 
 ## Features
 
